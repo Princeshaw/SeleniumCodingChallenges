@@ -1,0 +1,100 @@
+Time 1 sec, 
+ Current World Population : 7,859,046,973 
+ Births today : 6,311 		 Births this year : 39,921,245  
+ Deaths today : 2,649 		 Deaths this year : 16,759,895 
+ Population Growth today : 3,662 		 BPopulation Growth this year : 23,161,350 
+Time 2 sec, 
+ Current World Population : 7,859,046,976 
+ Births today : 6,316 		 Births this year : 39,921,251  
+ Deaths today : 2,652 		 Deaths this year : 16,759,897 
+ Population Growth today : 3,665 		 BPopulation Growth this year : 23,161,353 
+Time 3 sec, 
+ Current World Population : 7,859,046,979 
+ Births today : 6,321 		 Births this year : 39,921,256  
+ Deaths today : 2,654 		 Deaths this year : 16,759,899 
+ Population Growth today : 3,668 		 BPopulation Growth this year : 23,161,356 
+Time 4 sec, 
+ Current World Population : 7,859,046,982 
+ Births today : 6,327 		 Births this year : 39,921,261  
+ Deaths today : 2,656 		 Deaths this year : 16,759,901 
+ Population Growth today : 3,671 		 BPopulation Growth this year : 23,161,359 
+Time 5 sec, 
+ Current World Population : 7,859,046,985 
+ Births today : 6,332 		 Births this year : 39,921,266  
+ Deaths today : 2,658 		 Deaths this year : 16,759,903 
+ Population Growth today : 3,674 		 BPopulation Growth this year : 23,161,362 
+Time 6 sec, 
+ Current World Population : 7,859,046,988 
+ Births today : 6,336 		 Births this year : 39,921,271  
+ Deaths today : 2,660 		 Deaths this year : 16,759,905 
+ Population Growth today : 3,677 		 BPopulation Growth this year : 23,161,365 
+Time 7 sec, 
+ Current World Population : 7,859,046,992 
+ Births today : 6,342 		 Births this year : 39,921,276  
+ Deaths today : 2,662 		 Deaths this year : 16,759,907 
+ Population Growth today : 3,680 		 BPopulation Growth this year : 23,161,367 
+Time 8 sec, 
+ Current World Population : 7,859,046,994 
+ Births today : 6,347 		 Births this year : 39,921,281  
+ Deaths today : 2,665 		 Deaths this year : 16,759,910 
+ Population Growth today : 3,682 		 BPopulation Growth this year : 23,161,370 
+Time 9 sec, 
+ Current World Population : 7,859,046,997 
+ Births today : 6,352 		 Births this year : 39,921,286  
+ Deaths today : 2,667 		 Deaths this year : 16,759,912 
+ Population Growth today : 3,685 		 BPopulation Growth this year : 23,161,373 
+Time 10 sec, 
+ Current World Population : 7,859,047,000 
+ Births today : 6,357 		 Births this year : 39,921,291  
+ Deaths today : 2,669 		 Deaths this year : 16,759,914 
+ Population Growth today : 3,688 		 BPopulation Growth this year : 23,161,376 
+Time 11 sec, 
+ Current World Population : 7,859,047,003 
+ Births today : 6,362 		 Births this year : 39,921,296  
+ Deaths today : 2,671 		 Deaths this year : 16,759,916 
+ Population Growth today : 3,691 		 BPopulation Growth this year : 23,161,379 
+Time 12 sec, 
+ Current World Population : 7,859,047,006 
+ Births today : 6,367 		 Births this year : 39,921,301  
+ Deaths today : 2,673 		 Deaths this year : 16,759,918 
+ Population Growth today : 3,694 		 BPopulation Growth this year : 23,161,382 
+Time 13 sec, 
+ Current World Population : 7,859,047,009 
+ Births today : 6,372 		 Births this year : 39,921,306  
+ Deaths today : 2,675 		 Deaths this year : 16,759,920 
+ Population Growth today : 3,697 		 BPopulation Growth this year : 23,161,385 
+Time 14 sec, 
+ Current World Population : 7,859,047,012 
+ Births today : 6,377 		 Births this year : 39,921,311  
+ Deaths today : 2,677 		 Deaths this year : 16,759,922 
+ Population Growth today : 3,700 		 BPopulation Growth this year : 23,161,388 
+Time 15 sec, 
+ Current World Population : 7,859,047,015 
+ Births today : 6,382 		 Births this year : 39,921,316  
+ Deaths today : 2,679 		 Deaths this year : 16,759,924 
+ Population Growth today : 3,703 		 BPopulation Growth this year : 23,161,390 
+Time 16 sec, 
+ Current World Population : 7,859,047,018 
+ Births today : 6,387 		 Births this year : 39,921,321  
+ Deaths today : 2,681 		 Deaths this year : 16,759,927 
+ Population Growth today : 3,705 		 BPopulation Growth this year : 23,161,394 
+Time 17 sec, 
+ Current World Population : 7,859,047,020 
+ Births today : 6,392 		 Births this year : 39,921,327  
+ Deaths today : 2,684 		 Deaths this year : 16,759,929 
+ Population Growth today : 3,709 		 BPopulation Growth this year : 23,161,397 
+Time 18 sec, 
+ Current World Population : 7,859,047,024 
+ Births today : 6,398 		 Births this year : 39,921,332  
+ Deaths today : 2,686 		 Deaths this year : 16,759,931 
+ Population Growth today : 3,712 		 BPopulation Growth this year : 23,161,401 
+Time 19 sec, 
+ Current World Population : 7,859,047,027 
+ Births today : 6,404 		 Births this year : 39,921,338  
+ Deaths today : 2,688 		 Deaths this year : 16,759,934 
+ Population Growth today : 3,716 		 BPopulation Growth this year : 23,161,403 
+Time 20 sec, 
+ Current World Population : 7,859,047,030 
+ Births today : 6,409 		 Births this year : 39,921,343  
+ Deaths today : 2,691 		 Deaths this year : 16,759,936 
+ Population Growth today : 3,718 		 BPopulation Growth this year : 23,161,406 
